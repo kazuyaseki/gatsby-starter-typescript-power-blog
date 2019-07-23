@@ -7,3 +7,9 @@ tags:
   - GraphQL
 ---
 これはテストのBodyです
+
+```
+hoge
+```
+
+![](/images/uploads/img_2537.jpg)
